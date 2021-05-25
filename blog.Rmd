@@ -1,4 +1,4 @@
 ---
-title: "Blog"  
-listing: posts 
+title: "Blog"  # any name you want here
+listing: posts # do this exactly
 ---
