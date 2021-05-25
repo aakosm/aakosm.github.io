@@ -1,0 +1,37 @@
+---
+title: "Akos Mate"
+image: "akos.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/akosmate/"
+  - label: Twitter
+    url: "https://twitter.com/aakos_m"
+  - label: GitHub
+    url: "https://github.com/aakosm"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+I am a computational social scientist doing research at the [poltextLAB](http://poltextlab.com/), Hungarian Academy of Sciences Centre of Excellence. My main research interest is the application of  quantitative text analysis and other big data methods in the political economy field. I employ a wide variety of methods in my research, particularly automated text analysis (and attached various machine learning approaches), network analysis and more traditional econometric techniques. I also happen to teach some of these in R as well. Most of my courses and workshops are open sourced and can be accessed via my GitHub page.
+
+## Education
+
+2015 - 2019 | **PhD, Political Science** | Central European University 
+
+2016 - 2017 | **Advanced Certificate, Network Science** | Central European University 
+
+2014 - 2015 | **MA, International Political Economy** | Central European University 
+
+
+
+## Experience
+
+2019 - Present | **PoltextLAB** | Research Fellow
+
+2016 - Present | **Data Science consultant** | Freelance
+
+2018 - Present |**Instructor** | European Consortium of Political Research
+
