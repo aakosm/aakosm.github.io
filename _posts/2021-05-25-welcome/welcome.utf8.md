@@ -11,9 +11,9 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 Just to try things out.
 
+```{.r .distill-force-highlighting-css}
+```

@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2021-05-25-welcome/",
+    "title": "welcome",
+    "description": "A first one",
+    "author": [
+      {
+        "name": "Akos Mate",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-25",
+    "categories": [],
+    "contents": "\r\nJust to try things out.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-25T23:28:37+02:00",
+    "input_file": "welcome.utf8.md"
+  }
+]
