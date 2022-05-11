@@ -15,23 +15,39 @@ site: distill::distill_website
  
 ## Bio
 
-I am a computational social scientist doing research at the [poltextLAB](http://poltextlab.com/), Hungarian Academy of Sciences Centre of Excellence. My main research interest is the application of  quantitative text analysis and other big data methods in the political economy field. I employ a wide variety of methods in my research, particularly automated text analysis (and attached various machine learning approaches), network analysis and more traditional econometric techniques. I also happen to teach some of these in R as well. Most of my courses and workshops are open sourced and can be accessed via my GitHub page.
+I am a computational social scientist doing research at the [poltextLAB](http://poltextlab.com/) within Centre for Social Sciences, Budapest. I am also providing text analysis and data analysis consultancy to the International Monetary Fund's [Independent Evaluation Office](https://ieo.imf.org/). My main research interest is the application of quantitative text analysis and other big data methods in the political economy field. 
+
+I employ a wide variety of methods in my research, particularly automated text analysis (and attached various machine learning approaches), network analysis and more traditional econometric techniques. I also happen to teach some of these in R as well. Most of my courses and workshops are open sourced and can be accessed via [my GitHub page](https://github.com/aakosm).
+
+<br>
+
+
+## Current Positions
+
+2020 - Present | **Consultant** | International Monetary Fund, Washington DC.
+
+2019 - Present | **Research Fellow** | PoltextLAB, Centre for Social Sciences, Budapest
+
+
+<br>
 
 ## Education
 
-2015 - 2019 | **PhD, Political Science** | Central European University 
+2015 - 2019 | **PhD, Political Science** | Central European University, Budapest
 
-2016 - 2017 | **Advanced Certificate, Network Science** | Central European University 
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Visiting PhD Researcher** | KU Leuven, Leuven
 
-2014 - 2015 | **MA, International Political Economy** | Central European University 
+2016 - 2017 | **Advanced Certificate, Network Science** | Central European University, Budapest 
+
+2014 - 2015 | **MA, International Political Economy** | Central European University, Budapest
+
+<br>
 
 
+## Contacts
 
-## Experience
+- See the left for social media
+- Otherwise: mate.akos at tk.hu
 
-2019 - Present | **PoltextLAB** | Research Fellow
 
-2016 - Present | **Data Science consultant** | Freelance
-
-2018 - Present |**Instructor** | European Consortium of Political Research
 
